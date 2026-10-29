@@ -1,0 +1,10 @@
+{
+    "libGTASA_so":  "C:/Users/Administrator/Documents/deepseek-harness/default-workspace/gtasa_200/lib/armeabi-v7a/libGTASA.so",
+    "american_gxt":  "C:/Users/Administrator/Documents/deepseek-harness/default-workspace/gtasa_200/assets/Text/american.gxt",
+    "chinese_gxt":  "C:/Users/Administrator/Downloads/wm_sachs/wm_sachs.gxt",
+    "font":  "C:/Windows/Fonts/simsun.ttc",
+    "font_face_index":  0,
+    "font_size":  30,
+    "ndk_bin":  "C:\\Users\\Administrator\\Documents\\deepseek-harness\\toolchain\\ndk\\android-ndk-r26d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin",
+    "build_tools":  "C:\\Users\\Administrator\\Documents\\deepseek-harness\\toolchain\\bt35\\android-15"
+}

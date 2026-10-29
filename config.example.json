@@ -1,0 +1,14 @@
+﻿{
+  "_说明": "把下面四个路径改成你自己的文件位置。这些文件都不进仓库。",
+
+  "libGTASA_so":     "path/to/libGTASA.so",
+  "american_gxt":    "path/to/assets/Text/american.gxt",
+  "chinese_gxt":     "path/to/wm_sachs.gxt",
+  "font":            "C:/Windows/Fonts/simsun.ttc",
+  "font_face_index": 0,
+  "font_size":       30,
+
+  "ndk_bin":         "path/to/android-ndk/toolchains/llvm/prebuilt/windows-x86_64/bin",
+
+  "_说明2": "font 换成 msyh.ttc / simhei.ttf / simkai.ttf 等即可换字体。"
+}
