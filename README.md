@@ -36,7 +36,7 @@ python build.py
 
 ```
 out/
-├── libGTASA.so          11.7 MB   六个补丁
+├── libGTASA.so          11.7 MB   补丁后的链接库
 ├── libcnpatch.so         5.6 KB   字形数组扩容
 ├── japanese.gxt        763.4 KB   17,367 条，按 hash 升序
 ├── JapaneseFont.png      1.23 MB  2048*2048 图集
